@@ -1,0 +1,45 @@
+
+/* el * sirve para ponerle el mismo formato a toda la pagina */
+/* para cambiar el tamaño de la letra se usa px */
+
+body{background-color:#ffd9f4;}
+header{
+    background-image: url(https://pymstatic.com/51975/conversions/frases-atardecer-wide_webp.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 0.5cm;
+    width: auto;
+    bleed: 300px;
+    height: 600px;
+    background-color: rgb(255,255, 255);
+}
+h1{color: #ffffa5; text-align: center;
+}
+h1{font-family: 'Playfair Display', serif;}
+
+p {
+    
+    color:rgba(88, 55, 12, 0.849);
+    font-family: 'Mulish', sans-serif;;
+    font-size:20px;
+    justify-content:center;
+    text-align: justify;
+}
+
+img{width: 25%;
+    bleed: 100px;
+    margin-top: 1cm;
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+    opacity: .9;
+}
+
+h3{color: #7f375e;}
+.titulo1{color:blue}
+#listafacetas{color:magenta}
+.olio{ color:#942a00}
+.cielorojo{
+    float: left;
+    
+}
